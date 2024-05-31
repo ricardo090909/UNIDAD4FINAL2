@@ -1,0 +1,1 @@
+ISBN: 100, titulo:  HOLA, autor : RICARDO, editorial:  , volumen:  1, edicion : OCTAVA, Idioma : ESPA;OL
